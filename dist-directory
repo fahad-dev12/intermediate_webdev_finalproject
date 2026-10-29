@@ -1,0 +1,9 @@
+$ npx webpack
+assets by path *.js 1.61 KiB
+  asset main.js 879 bytes [emitted] [minimized] (name: main)
+  asset script.js 765 bytes [emitted] [minimized]
+asset favicon.ico 1.12 KiB [emitted]
+asset index.html 1.08 KiB [emitted] [minimized]
+asset style.css 739 bytes [emitted] [minimized]
+./src/script.js 1.18 KiB [built] [code generated]
+webpack 5.112.2 compiled successfully in 158 ms
